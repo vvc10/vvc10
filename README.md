@@ -49,22 +49,24 @@ I'm pankaj, a passionate web dev from mumbai. Welcome to my GitHub profile!
 Here are a few projects I'm proud of:
 
 1. [I'amgenius](http://imagenius.qnagenius.com/) - Be genius using Imagenius. 😎
-2. [Music-player] (Commiting soon) - Listen it feel it. 🎵
-3. [confese](link) - Description
+2. Music-player (Commiting soon) - Listen it feel it. 🎵
+3. [confeseIt](link) - Confese & feel free.
 
 <!-- GitHub Stats Section -->
-## GitHub Stats 📊
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 <!-- Social Media Section -->
 ## Connect with Me 🔗
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](Your LinkedIn URL)
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](Your Twitter URL)
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />](Your Instagram URL)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />]
+(Your LinkedIn URL)
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />]
+(Your Twitter URL)
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />]
+(Your Instagram URL)
 
 <br />
+
+
 
 <!-- Footer Section -->
 ## Thanks for visiting! 🙌
