@@ -53,20 +53,13 @@ Here are a few projects I'm proud of:
 3. [confeseIt](link) - Confese & feel free.
 
 <!-- GitHub Stats Section -->
-
 <!-- Social Media Section -->
 ## Connect with Me 🔗
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />]
-(Your LinkedIn URL)
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />]
-(Your Twitter URL)
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />]
-(Your Instagram URL)
-
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/pankaj-yadav-23b688250/)
+ 
 <br />
-
-
+<br />
 
 <!-- Footer Section -->
 ## Thanks for visiting! 🙌
