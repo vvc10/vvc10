@@ -56,8 +56,8 @@ Here are a few projects I'm proud of:
 <!-- Social Media Section -->
 ## Connect with Me 🔗
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/pankaj-yadav-23b688250/)
- 
+👉 vvastcore10@gmail.com
+
 <br />
 <br />
 
